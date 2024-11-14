@@ -4,6 +4,7 @@ My first repository.
 # Detective Conan
 ---
 **1994** / ***Gosho Aoyama***
+---
 
 ## Genre
 
@@ -13,7 +14,7 @@ My first repository.
 - Comedy
 - Romance
 
-
+---
 ## Introduction
 
 This series introduces Shinichi Kudo, a high school detective who solves murder cases. While on a date with his childhood friend Ran Mouri, he followed a suspicious man dressed in block in an alleyway. Not knowing that the man had an accomplice he was hit in the back of the head with a bat. He fell to the ground and was forced to drink a pill which the men in black believed to be a poison that can kill Shinichi without any evidence. After the men in black left, Shinichi's body who was a 17-year old high schooler, transformed into a 6-year old elementary schooler with the mind of a 17-year old. 
