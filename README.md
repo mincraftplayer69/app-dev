@@ -22,4 +22,4 @@ This follows the journey of Shinichi Kudo turned into an elementary schooler nam
 
 > "A detective who uses his deductive powers to corner a suspect, and then does nothing to stop them from committing suicide, is no better than the murderer himself." - *Kudo Shinichi*
 
-This is a really good series with unique twits and I highly recommend you watch it!
+This is a really good series with unique twists and I highly recommend you watch it!
