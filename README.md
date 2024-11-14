@@ -2,12 +2,10 @@
 My first repository.
 
 # Detective Conan
----
 **1994** / ***Gosho Aoyama***
 ---
 
 ## Genre
-
 - Drama
 - Mystery
 - Thriller
